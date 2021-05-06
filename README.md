@@ -1,4 +1,8 @@
 # Invisibility-cloak
+
+An invisibility cloak is a magical garment which renders whomever or whatever it covers invisible. Invisibility cloaks are exceptionally rare and valuable within the wizarding world.
+
+
 Let us examine Harry Potter's invisible cloth....
 First you need to install opencv library to use this feature.
 Let me tell some basic points,if you are a beginner then you gonna face problems like “module not found" or may “dll can not be found", so, for this you will have to have opencv and python version both compatible with each other.
